@@ -246,7 +246,7 @@ echo $result;
       <p>Las nuevas expresiones match son similares a switch y tienen las siguientes características: </p>
       <ul>
         <li>Match es una expresión; esto quiere decir que pueden ser almacenadas como variables o devueltas.</li>
-        <li>Match soporta expresiones de una línea y no necesitan romper declarar un break.</li>
+        <li>Las ramas de match solo admiten expresiones de una sola línea y no necesitan una declaración break;</li>
         <li>Match hace comparaciones estrictas.</li>
       </ul>
     </div>
